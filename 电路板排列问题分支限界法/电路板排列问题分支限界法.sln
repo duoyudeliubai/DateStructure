@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "电路板排列问题分支限界法", "电路板排列问题分支限界法\电路板排列问题分支限界法.vcxproj", "{B0FD6615-E69A-4331-A4EB-C9A90DB640E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0FD6615-E69A-4331-A4EB-C9A90DB640E9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B0FD6615-E69A-4331-A4EB-C9A90DB640E9}.Debug|Win32.Build.0 = Debug|Win32
+		{B0FD6615-E69A-4331-A4EB-C9A90DB640E9}.Release|Win32.ActiveCfg = Release|Win32
+		{B0FD6615-E69A-4331-A4EB-C9A90DB640E9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
